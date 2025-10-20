@@ -1,3 +1,2 @@
-const fruits = [];
-fruits.push("banana", "apple", "peach");
-console.log(fruits.length); // 3
+const food = ["abols", "bumbiers", "kiploks", "arbuzs"];
+console.log(food)
